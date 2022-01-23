@@ -5,7 +5,6 @@ __pycache__/
 .idea
 Scripts
 *.iml
-*.cfg
 # C extensions
 *.so
 
